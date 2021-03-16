@@ -5,6 +5,7 @@
 # Affected Versions: OpenSSH version < 7.7
 # CVE: CVE-2018-15473
 # pip install paramiko==2.0.8
+# updated to latest python version 3.7
 
 ###########################################################################
 #                ____                    _____ _____ _    _               #
